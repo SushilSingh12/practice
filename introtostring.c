@@ -32,7 +32,6 @@ int main()
    for(i=0;name5[i]!='\0';i++)
    {
        name5[i]=name5[i]+32;
-   }
    printf("%s\n",name5);
    
 
